@@ -1,5 +1,7 @@
 var calculadora = {
     sumar: function sumarNumeros(n1, n2) {
+        int n;
+        n=n1+n2;
        //
     },
 
